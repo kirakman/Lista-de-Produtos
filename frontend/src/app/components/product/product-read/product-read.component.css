@@ -1,0 +1,14 @@
+table{
+    width: 100%;
+    margin-top: 15px;
+    background-color: aliceblue;
+}
+
+.edit{
+    color: coral;
+    margin-right: 10px;
+}
+
+.delete{
+    color: red;
+}

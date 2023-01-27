@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Playstation 5",
+      "price": "3900"
+    },
+    {
+      "id": 2,
+      "name": "Iphone 14 Plus",
+      "price": "15000"
+    },
+    {
+      "id": 3,
+      "name": "Nintendo 3DS XL",
+      "price": "800"
+    }
+  ]
+}

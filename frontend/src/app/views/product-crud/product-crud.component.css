@@ -1,0 +1,17 @@
+button{
+    font-size: 28px;
+    text-align: center;
+    padding: 20px;
+    margin: 25px;
+    border: 2px black solid;
+    border-radius: 25px;
+    font-family: 'EB Garamond', serif;
+    font-weight: 500;
+    
+}
+
+button:hover{
+    color: white;
+    background-color: cornflowerblue;
+    transition: 0.5s;
+}

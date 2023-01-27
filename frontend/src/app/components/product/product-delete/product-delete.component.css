@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@500&display=swap');
+
+
+
+.card-interno{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 25px;
+    background-color: aliceblue;
+    padding: 25px;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+.titulo{
+    font-size: 28px;
+    text-align: center;
+    background-color: red;
+    padding: 10px;
+    color: black;
+    border: 2px black solid;
+    border-radius: 25px;
+    font-family: 'EB Garamond', serif;
+    font-weight: 500;
+}

@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+
+.home{
+    background-color: aliceblue;
+}
+
+.home .title {
+    font-size: 3rem;
+    font-weight: 300;
+    line-height: 1.2;
+    font-family: 'Lilita One';
+    text-align: center;
+    padding: 25px;
+}
+
+.home .subtitle {
+    font-size: 1.1rem;
+    color: black;
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+.home .passos{
+    color: black;
+    font-size: 18px;
+    
+}
